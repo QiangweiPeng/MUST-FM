@@ -1,5 +1,9 @@
 # Multiscale Supervised Unbalanced Optimal Transport Flow Matching (MUST-FM)
 
+<p align="center">
+Enjoying MUST-FM? Help us grow by clicking the ⭐ button!
+</p>
+
 [![arXiv](https://img.shields.io/badge/arXiv-2605.16529-b31b1b.svg)](https://arxiv.org/abs/2605.16529)
 [![GitHub stars](https://img.shields.io/github/stars/QiangweiPeng/MUST-FM?style=flat&logo=github&color=pink)](https://github.com/QiangweiPeng/MUST-FM/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/QiangweiPeng/MUST-FM?logo=git)](https://github.com/QiangweiPeng/MUST-FM/commits/main)
@@ -8,10 +12,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/QiangweiPeng/MUST-FM?style=flat)](https://github.com/QiangweiPeng/MUST-FM/issues)
 [![GitHub license](https://img.shields.io/github/license/QiangweiPeng/MUST-FM)](https://github.com/QiangweiPeng/MUST-FM/blob/main/LICENSE)
 -->
-
-<p align="center">
-Enjoying MUST-FM? Help us grow by clicking the ⭐ button!
-</p>
 
 ![Algorithm Framework](docs/framework.png)
 

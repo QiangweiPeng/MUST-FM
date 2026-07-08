@@ -1,5 +1,5 @@
-[![arXiv](https://img.shields.io/badge/Published%20in-Nature%20Methods-0077b6?style=flat&logo=nature)](https://arxiv.org/abs/2605.16529)
-[![GitHub stars](https://img.shields.io/github/stars/QiangweiPeng/stVCR?style=flat&logo=github&color=pink)](https://github.com/QiangweiPeng/MUST-FM/stargazers)
+[![arXiv](https://img.shields.io/badge/arXiv-2605.16529-b31b1b.svg)](https://arxiv.org/abs/2605.16529)
+[![GitHub stars](https://img.shields.io/github/stars/QiangweiPeng/MUST-FM?style=flat&logo=github&color=pink)](https://github.com/QiangweiPeng/MUST-FM/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/QiangweiPeng/MUST-FM?logo=git)](https://github.com/QiangweiPeng/MUST-FM/commits/main)
 <!--
 [![GitHub forks](https://img.shields.io/github/forks/QiangweiPeng/MUST-FM?style=flat&logo=github)](https://github.com/QiangweiPeng/MUST-FM/network)

@@ -6,15 +6,6 @@ Enjoying MUST-FM? Help us grow by clicking the ⭐ button!
 
 ![Algorithm Framework](docs/framework.png)
 
-## Installation
-
-```bash
-conda create -n MUST-FM python=3.10
-conda activate MUST-FM
-
-pip install -r requirements.txt
-```
-
 ## Structure
 
 - `src/`: training and evaluation code
@@ -24,6 +15,15 @@ pip install -r requirements.txt
 ## Dataset
 
 The processed datasets used in MUST-FM can be downloaded from https://zenodo.org/records/20095042
+
+## Installation
+
+```bash
+conda create -n MUST-FM python=3.10
+conda activate MUST-FM
+
+pip install -r requirements.txt
+```
 
 ## Training MUST-FM
 

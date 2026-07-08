@@ -1,3 +1,12 @@
+[![arXiv](https://img.shields.io/badge/Published%20in-Nature%20Methods-0077b6?style=flat&logo=nature)](https://arxiv.org/abs/2605.16529)
+[![GitHub stars](https://img.shields.io/github/stars/QiangweiPeng/stVCR?style=flat&logo=github&color=pink)](https://github.com/QiangweiPeng/stVCR/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/QiangweiPeng/stVCR?logo=git)](https://github.com/QiangweiPeng/stVCR/commits/main)
+<!--
+[![GitHub forks](https://img.shields.io/github/forks/QiangweiPeng/stVCR?style=flat&logo=github)](https://github.com/QiangweiPeng/stVCR/network)
+[![GitHub issues](https://img.shields.io/github/issues/QiangweiPeng/stVCR?style=flat)](https://github.com/QiangweiPeng/stVCR/issues)
+[![GitHub license](https://img.shields.io/github/license/QiangweiPeng/stVCR)](https://github.com/QiangweiPeng/stVCR/blob/main/LICENSE)
+-->
+
 # Multiscale Supervised Unbalanced Optimal Transport Flow Matching (MUST-FM)
 
 <p align="center">

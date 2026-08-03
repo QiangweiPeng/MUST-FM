@@ -248,13 +248,15 @@ def generate_trajectories_sde(
                 n_gt,
                 size=n_gt_sample,
                 replace=False,
-                p=a if n_gt_sample < n_gt else None
+                # p=a if n_gt_sample < n_gt else None
+                p=None
             )
 
             gt_data_eval = gt_data[gt_idx]
 
             a_eval = a[gt_idx]
             a_eval = a_eval / (a_eval.sum() + 1e-12)
+            # a_eval = np.ones(n_gt_sample) / n_gt_sample
 
             # ---------- sample model ----------
             n_model = model_i_data.shape[0]
@@ -266,13 +268,15 @@ def generate_trajectories_sde(
                 n_model,
                 size=n_model_sample,
                 replace=False,
-                p=b_prob if n_model_sample < n_model else None
+                # p=b_prob if n_model_sample < n_model else None
+                p=None
             )
 
             model_i_data_eval = model_i_data[model_idx]
 
             b_eval = b[model_idx]
             b_eval = b_eval / (b_eval.sum() + 1e-12)
+            # b_eval = np.ones(n_model_sample) / n_model_sample
 
             # 计算 W1
             w1 = evaluate_model(

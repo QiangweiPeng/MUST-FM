@@ -111,13 +111,13 @@ After training, the performance of distribution matching and mass matching will 
 
 If you find this package helpful in your research, we would greatly appreciate it if you could consider citing our work.
 
-- Qiangwei Peng, Lezhi Chen, Peijie Zhou. “Multiscale Supervised Unbalanced Optimal Transport Flow Matching”. In: *arXiv:2605.16529*.
+- Qiangwei Peng, Lezhi Chen, Peijie Zhou. “Multiscale Supervised Unbalanced Optimal Transport Flow Matching”. *arXiv:2605.16529*.
 
 These papers present the core algorithm on which this package is built, as well as other relevant developments.
 
-- Qiangwei Peng, Zihan Wang, Junda Ying, Yuhao Sun, Qing Nie, Lei Zhang, Tiejun Li, Peijie Zhou. “WFR-FM: Simulation-Free Dynamic Unbalanced Optimal Transport”. In: *ICLR 2026*.
+- Qiangwei Peng, Zihan Wang, Junda Ying, Yuhao Sun, Qing Nie, Lei Zhang, Tiejun Li, Peijie Zhou. “WFR-FM: Simulation-Free Dynamic Unbalanced Optimal Transport”. *ICLR 2026*.
 
-- Qiangwei Peng, Peijie Zhou, and Tiejun Li. “stVCR: Spatiotemporal dynamics of single cells”. In: *Nature Methods*.
+- Qiangwei Peng, Peijie Zhou, and Tiejun Li. “stVCR: Spatiotemporal dynamics of single cells”. *Nature Methods*.
 
 ## Contact information
 

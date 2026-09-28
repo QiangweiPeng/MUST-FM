@@ -111,7 +111,7 @@ After training, the performance of distribution matching and mass matching will 
 
 If you find this package helpful in your research, we would greatly appreciate it if you could consider citing our work.
 
-- Qiangwei Peng, Lezhi Chen, Peijie Zhou. “Multiscale Supervised Unbalanced Optimal Transport Flow Matching”. *arXiv:2605.16529*.
+- Qiangwei Peng, Lezhi Chen, Peijie Zhou. “Multiscale Supervised Unbalanced Optimal Transport Flow Matching”. *NeurIPS 2026*.
 
 These papers present the core algorithm on which this package is built, as well as other relevant developments.
 

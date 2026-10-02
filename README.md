@@ -49,7 +49,7 @@ After the dataset is prepared, add these parts in the confuguration file `src/ex
     ),
 ```
 
-- `delta` varies in the range [0,inf], The larger it is, the more it inhibits growth and tends toward unbalance; the smaller it is, the more it favors growth and may inhibit transport.
+- `delta` varies in the range [0,inf], The larger it is, the more it inhibits growth and tends toward balance; the smaller it is, the more it favors growth and may inhibit transport.
 
 - `independent` option enables the scalable independent coupling lifting strategy at the finest level. Set `True` for atlas-scale datasets, and `False` for exact sparse UOT coupling.
 
